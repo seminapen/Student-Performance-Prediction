@@ -1,4 +1,4 @@
-# Lineer_Regression(Öğrenci Başarı Tahmini)
+# Öğrenci Başarı Tahmini(Lineer_Regression)
 
 Bu proje öğrenci çalışma saatlerinden yola çıkarak tahmini puanlarını belirlemek için Basit Doğrusal Regresyonu kullanır.
 
